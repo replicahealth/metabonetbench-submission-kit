@@ -46,6 +46,17 @@ uv pip install -r requirements.txt
 https://huggingface.co/spaces/MetabonetBench/leaderboard-space
 
 
+## Preview of Submission Template 
+
+| id | source_file | date                | pred_30 | pred_60 | pred_90 | pred_120 |
+|----|-------------|---------------------|----------|----------|----------|-----------|
+| 16 | AZT1D       | 2024-01-18 01:00:00 | NaN      | NaN      | NaN      | NaN       |
+| 16 | AZT1D       | 2024-01-18 01:05:00 | NaN      | NaN      | NaN      | NaN       |
+| 16 | AZT1D       | 2024-01-18 01:10:00 | NaN      | NaN      | NaN      | NaN       |
+| 16 | AZT1D       | 2024-01-18 01:15:00 | NaN      | NaN      | NaN      | NaN       |
+| 16 | AZT1D       | 2024-01-18 01:20:00 | NaN      | NaN      | NaN      | NaN       |
+
+
 ## Files
 
 - `run.py` - Validation and evaluation script
